@@ -5,7 +5,7 @@ baseline: spec
 		spec project: 'ZincHTTPComponents' with: [ 
       		spec
             className: 'ConfigurationOfZincHTTPComponents';
-            versionString: #'2.8-baseline';
+            versionString: '2.8.9';
             loads: #('SSO');
             repository: 'http://mc.stfx.eu/ZincHTTPComponents' ].
 		spec
