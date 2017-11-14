@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "AndreiChis 11/14/2017 11:45",
+	"super" : "Object",
+	"category" : "BadWolf",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"CONSUMER",
+		"TOKEN"
+	],
+	"instvars" : [ ],
+	"name" : "BadWolf",
+	"type" : "normal"
+}

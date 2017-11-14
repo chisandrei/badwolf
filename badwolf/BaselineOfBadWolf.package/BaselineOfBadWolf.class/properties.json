@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AndreiChis 11/14/2017 14:43",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfBadWolf",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfBadWolf",
+	"type" : "normal"
+}
