@@ -1,5 +1,5 @@
 # badwolf
-Methods that tweet myself!
+Methods that tweet themselves!
 
 ```
 Metacello new
